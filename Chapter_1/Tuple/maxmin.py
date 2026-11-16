@@ -1,0 +1,6 @@
+t = (10,20,30,40)
+print("length =",len(t))
+print("Maximum =",max(t))
+print("Minimum =",min(t))
+print("Sum =",sum(t))
+print(t.index(30))
